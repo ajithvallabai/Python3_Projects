@@ -23,5 +23,10 @@
             - python manage.py runserver 
             - Go to link  http://127.0.0.1:8000/polls/
  
-
+[DataScience projects]()
+        
+   - [Kannada MNIST Challenge](https://www.kaggle.com/ajithvallabai/kaggle-kannada-mnist-made-simple?scriptVersionId=22969957)
+   - [Categorical Encoding Challenge](https://www.kaggle.com/ajithvallabai/categorical-ecoding-cat-challange-solved?scriptVersionId=22858166)
+   
+     
 
